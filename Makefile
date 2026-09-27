@@ -5,7 +5,7 @@
 
 # ─── متغيرات ────────────────────────────────────────────────────────
 BINARY_NAME    := gormx
-MODULE         := github.com/sanad/gormx
+MODULE         := github.com/abdallah-elngar/gormx
 GO             := go
 GOFLAGS        :=
 GOTEST         := $(GO) test
