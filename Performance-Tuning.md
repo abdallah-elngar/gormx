@@ -1431,9 +1431,9 @@ A: استخدم:
     ✅ FAQ
 
 للأسئلة، الاقتراحات، أو الإبلاغ عن أخطاء:
-    GitHub: https://github.com/sanad/gormx
-    Issues: https://github.com/sanad/gormx/issues
-    Discussions: https://github.com/sanad/gormx/discussions
+    GitHub: https://github.com/abdallah-elngar/gormx
+    Issues: https://github.com/abdallah-elngar/gormx/issues
+    Discussions: https://github.com/abdallah-elngar/gormx/discussions
 
 ═══════════════════════════════════════════════════════════════════
 

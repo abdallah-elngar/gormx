@@ -47,7 +47,7 @@
 
 أرسل بريداً إلى: **security@sanad.dev**
 
-أو استخدم [GitHub Private Vulnerability Reporting](https://github.com/sanad/gormx/security/advisories/new).
+أو استخدم [GitHub Private Vulnerability Reporting](https://github.com/abdallah-elngar/gormx/security/advisories/new).
 
 ### معلومات مطلوبة في التقرير
 

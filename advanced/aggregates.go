@@ -4,8 +4,8 @@ import (
 	"fmt"
 	"strings"
 
-	"github.com/sanad/gormx"
-	"github.com/sanad/gormx/internal"
+	"github.com/abdallah-elngar/gormx"
+	"github.com/abdallah-elngar/gormx/internal"
 	"gorm.io/gorm"
 )
 

@@ -14,7 +14,7 @@ import (
     "log"
     "time"
 
-    "github.com/sanad/gormx"
+    "github.com/abdallah-elngar/gormx"
     "gorm.io/driver/sqlite"
     "gorm.io/gorm"
 )

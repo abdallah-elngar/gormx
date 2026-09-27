@@ -18,6 +18,6 @@
 
 ```go
 import (
-    "github.com/sanad/gormx"
-    "github.com/sanad/gormx/advanced"
+    "github.com/abdallah-elngar/gormx"
+    "github.com/abdallah-elngar/gormx/advanced"
 )

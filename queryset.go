@@ -6,7 +6,7 @@ import (
 	"fmt"
 	"strings"
 
-	"github.com/sanad/gormx/internal"
+	"github.com/abdallah-elngar/gormx/internal"
 	"gorm.io/gorm"
 )
 

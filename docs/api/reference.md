@@ -438,5 +438,5 @@ type contextKey struct
 const Version = "0.1.0"
 const Author  = "Sanad Team"
 const License = "MIT"
-const URL     = "https://github.com/sanad/gormx"
+const URL     = "https://github.com/abdallah-elngar/gormx"
 ```

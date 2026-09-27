@@ -302,7 +302,7 @@ func typeNameOf(v any) string {
 		inner := fullName[start+1 : end]
 
 		// احذف package path
-		// github.com/sanad/gormx/tests/fixtures.User → User
+		// github.com/abdallah-elngar/gormx/tests/fixtures.User → User
 		if idx := strings.LastIndex(inner, "."); idx >= 0 {
 			inner = inner[idx+1:]
 		}

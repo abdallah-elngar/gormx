@@ -134,7 +134,7 @@ Requirements
 Installation
 ────────────
 
-    go get github.com/sanad/gormx
+    go get github.com/abdallah-elngar/gormx
 
 Basic Setup
 ───────────
@@ -144,7 +144,7 @@ Basic Setup
     import (
         "log"
 
-        "github.com/sanad/gormx"
+        "github.com/abdallah-elngar/gormx"
         "gorm.io/driver/sqlite"
         "gorm.io/gorm"
     )
@@ -904,7 +904,7 @@ Using errors.Is/As:
 
 All features below live in the subpackage:
 
-    import "github.com/sanad/gormx/advanced"
+    import "github.com/abdallah-elngar/gormx/advanced"
 
 
 ───────────────────────────────────────────────────────────────────
@@ -1676,8 +1676,8 @@ Example 1: Complete User System
         "log"
         "time"
 
-        "github.com/sanad/gormx"
-        "github.com/sanad/gormx/advanced"
+        "github.com/abdallah-elngar/gormx"
+        "github.com/abdallah-elngar/gormx/advanced"
         "gorm.io/driver/sqlite"
         "gorm.io/gorm"
     )
@@ -3736,9 +3736,9 @@ You now have complete documentation covering:
     ✅ FAQ
 
 For questions, suggestions, or bug reports:
-    GitHub: https://github.com/sanad/gormx
-    Issues: https://github.com/sanad/gormx/issues
-    Discussions: https://github.com/sanad/gormx/discussions
+    GitHub: https://github.com/abdallah-elngar/gormx
+    Issues: https://github.com/abdallah-elngar/gormx/issues
+    Discussions: https://github.com/abdallah-elngar/gormx/discussions
 
 ═══════════════════════════════════════════════════════════════════
 

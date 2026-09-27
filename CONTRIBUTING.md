@@ -43,12 +43,12 @@
 ## 🎯 كيف أساهم؟
 
 ### 1. **الإبلاغ عن الأخطاء (Bug Reports)**
-- ابحث أولاً في [Issues](https://github.com/sanad/gormx/issues) — قد يكون مُبلَّغاً عنه
+- ابحث أولاً في [Issues](https://github.com/abdallah-elngar/gormx/issues) — قد يكون مُبلَّغاً عنه
 - استخدم [قالب الإبلاغ عن خطأ](.github/ISSUE_TEMPLATE/bug_report.md)
 - أضف تفاصيل كافية لإعادة الإنتاج
 
 ### 2. **طلب ميزة (Feature Request)**
-- افتح [Issue جديدة](https://github.com/sanad/gormx/issues/new)
+- افتح [Issue جديدة](https://github.com/abdallah-elngar/gormx/issues/new)
 - استخدم [قالب طلب الميزة](.github/ISSUE_TEMPLATE/feature_request.md)
 - اشرح المشكلة التي تحلها الميزة
 
@@ -82,7 +82,7 @@
 
 ```bash
 # 1. Fork المستودع على GitHub
-# اذهب إلى https://github.com/sanad/gormx
+# اذهب إلى https://github.com/abdallah-elngar/gormx
 # اضغط "Fork"
 
 # 2. استنسخ نسختك
@@ -90,7 +90,7 @@ git clone https://github.com/YOUR_USERNAME/gormx.git
 cd gormx
 
 # 3. أضف المستودع الأصلي
-git remote add upstream https://github.com/sanad/gormx.git
+git remote add upstream https://github.com/abdallah-elngar/gormx.git
 
 # 4. تأكد من أنك في فرع main
 git checkout main

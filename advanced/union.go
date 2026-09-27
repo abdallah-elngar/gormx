@@ -4,7 +4,7 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/sanad/gormx"
+	"github.com/abdallah-elngar/gormx"
 )
 
 // ═══════════════════════════════════════════════

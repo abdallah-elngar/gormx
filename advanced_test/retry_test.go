@@ -7,7 +7,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/sanad/gormx/advanced"
+	"github.com/abdallah-elngar/gormx/advanced"
 	"github.com/stretchr/testify/assert"
 )
 

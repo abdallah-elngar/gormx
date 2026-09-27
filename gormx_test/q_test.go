@@ -3,7 +3,7 @@ package gormx_test
 import (
 	"testing"
 
-	"github.com/sanad/gormx"
+	"github.com/abdallah-elngar/gormx"
 	"github.com/stretchr/testify/assert"
 )
 

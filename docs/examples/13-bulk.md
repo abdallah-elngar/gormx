@@ -14,8 +14,8 @@ import (
     "fmt"
     "log"
 
-    "github.com/sanad/gormx"
-    "github.com/sanad/gormx/advanced"
+    "github.com/abdallah-elngar/gormx"
+    "github.com/abdallah-elngar/gormx/advanced"
     "gorm.io/driver/sqlite"
     "gorm.io/gorm"
 )

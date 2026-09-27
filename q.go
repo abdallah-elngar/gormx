@@ -3,7 +3,7 @@ package gormx
 import (
 	"strings"
 
-	"github.com/sanad/gormx/internal"
+	"github.com/abdallah-elngar/gormx/internal"
 )
 
 // ═══════════════════════════════════════════════

@@ -42,5 +42,5 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - 90% test coverage
 - Complete documentation
 
-[Unreleased]: https://github.com/sanad/gormx/compare/v0.1.0...HEAD
-[0.1.0]: https://github.com/sanad/gormx/releases/tag/v0.1.0
+[Unreleased]: https://github.com/abdallah-elngar/gormx/compare/v0.1.0...HEAD
+[0.1.0]: https://github.com/abdallah-elngar/gormx/releases/tag/v0.1.0

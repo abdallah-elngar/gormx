@@ -4,7 +4,7 @@
 
 [![Go Version](https://img.shields.io/badge/Go-1.22+-00ADD8?logo=go)](https://go.dev)
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
-[![Go Reference](https://pkg.go.dev/badge/github.com/sanad/gormx.svg)](https://pkg.go.dev/github.com/sanad/gormx)
+[![Go Reference](https://pkg.go.dev/badge/github.com/abdallah-elngar/gormx.svg)](https://pkg.go.dev/github.com/abdallah-elngar/gormx)
 [![Test Coverage](https://img.shields.io/badge/coverage-90%25-brightgreen)]()
 
 ---

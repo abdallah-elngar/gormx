@@ -3,7 +3,7 @@ package advanced
 import (
 	"context"
 
-	"github.com/sanad/gormx"
+	"github.com/abdallah-elngar/gormx"
 	"gorm.io/gorm"
 	"gorm.io/gorm/clause"
 )

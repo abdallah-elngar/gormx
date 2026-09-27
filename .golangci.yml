@@ -220,10 +220,10 @@ linters-settings:
     settings:
       printf:
         funcs:
-          - (github.com/sanad/gormx/internal.Logger).Infof
-          - (github.com/sanad/gormx/internal.Logger).Warnf
-          - (github.com/sanad/gormx/internal.Logger).Errorf
-          - (github.com/sanad/gormx/internal.Logger).Debugf
+          - (github.com/abdallah-elngar/gormx/internal.Logger).Infof
+          - (github.com/abdallah-elngar/gormx/internal.Logger).Warnf
+          - (github.com/abdallah-elngar/gormx/internal.Logger).Errorf
+          - (github.com/abdallah-elngar/gormx/internal.Logger).Debugf
   
   # ─── staticcheck ─────────────────────────────────────────────────
   staticcheck:
@@ -256,19 +256,19 @@ linters-settings:
   
   # ─── gofumpt ─────────────────────────────────────────────────────
   gofumpt:
-    module-path: github.com/sanad/gormx
+    module-path: github.com/abdallah-elngar/gormx
     extra-rules: true
   
   # ─── goimports ───────────────────────────────────────────────────
   goimports:
-    local-prefixes: github.com/sanad/gormx
+    local-prefixes: github.com/abdallah-elngar/gormx
   
   # ─── gci (ترتيب الاستيرادات) ────────────────────────────────────
   gci:
     sections:
       - standard
       - default
-      - prefix(github.com/sanad/gormx)
+      - prefix(github.com/abdallah-elngar/gormx)
       - prefix(github.com/sanad)
       - blank
       - dot
@@ -475,11 +475,11 @@ linters-settings:
   # ─── contextcheck ────────────────────────────────────────────────
   contextcheck:
     check-function:
-      - (github.com/sanad/gormx.QuerySet).All
-      - (github.com/sanad/gormx.QuerySet).First
-      - (github.com/sanad/gormx.QuerySet).Create
-      - (github.com/sanad/gormx.QuerySet).Update
-      - (github.com/sanad/gormx.QuerySet).Delete
+      - (github.com/abdallah-elngar/gormx.QuerySet).All
+      - (github.com/abdallah-elngar/gormx.QuerySet).First
+      - (github.com/abdallah-elngar/gormx.QuerySet).Create
+      - (github.com/abdallah-elngar/gormx.QuerySet).Update
+      - (github.com/abdallah-elngar/gormx.QuerySet).Delete
   
   # ─── errorlint ───────────────────────────────────────────────────
   errorlint:
@@ -526,9 +526,9 @@ linters-settings:
     no-unaliased: true
     no-extra-aliases: false
     alias:
-      - pkg: github.com/sanad/gormx
+      - pkg: github.com/abdallah-elngar/gormx
         alias: gormx
-      - pkg: github.com/sanad/gormx/advanced
+      - pkg: github.com/abdallah-elngar/gormx/advanced
         alias: advanced
       - pkg: gorm.io/gorm
         alias: gorm

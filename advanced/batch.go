@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"sync"
 
-	"github.com/sanad/gormx"
+	"github.com/abdallah-elngar/gormx"
 )
 
 // ═══════════════════════════════════════════════

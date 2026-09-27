@@ -3,8 +3,8 @@ package gormx_test
 import (
 	"testing"
 
-	"github.com/sanad/gormx"
-	"github.com/sanad/gormx/tests/fixtures"
+	"github.com/abdallah-elngar/gormx"
+	"github.com/abdallah-elngar/gormx/tests/fixtures"
 	"github.com/stretchr/testify/require"
 	"gorm.io/driver/sqlite"
 	"gorm.io/gorm"

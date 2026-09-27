@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"strings"
 
-	"github.com/sanad/gormx"
+	"github.com/abdallah-elngar/gormx"
 )
 
 // ═══════════════════════════════════════════════

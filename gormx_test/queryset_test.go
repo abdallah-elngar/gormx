@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"testing"
 
-	"github.com/sanad/gormx"
+	"github.com/abdallah-elngar/gormx"
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/require"
 )

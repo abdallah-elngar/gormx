@@ -54,7 +54,7 @@ import (
 	"context"
 	"errors"
 
-	"github.com/sanad/gormx/internal"
+	"github.com/abdallah-elngar/gormx/internal"
 	"gorm.io/gorm"
 )
 
@@ -69,7 +69,7 @@ const Version = "0.1.0"
 const (
 	Author  = "Sanad Team"
 	License = "MIT"
-	URL     = "https://github.com/sanad/gormx"
+	URL     = "https://github.com/abdallah-elngar/gormx"
 )
 
 // ═══════════════════════════════════════════════

@@ -1,7 +1,7 @@
 package advanced
 
 import (
-	"github.com/sanad/gormx"
+	"github.com/abdallah-elngar/gormx"
 	"gorm.io/gorm"
 )
 

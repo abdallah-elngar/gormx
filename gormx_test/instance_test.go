@@ -5,7 +5,7 @@ import (
 	"errors"
 	"testing"
 
-	"github.com/sanad/gormx"
+	"github.com/abdallah-elngar/gormx"
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/require"
 	"gorm.io/driver/sqlite"

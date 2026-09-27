@@ -79,14 +79,14 @@ q := gormx.MustLookup[User]("user")  // panic if not found
 // apps/user/objects.go
 package user
 
-import "github.com/sanad/gormx"
+import "github.com/abdallah-elngar/gormx"
 
 var Users = gormx.Register[User]("user")
 
 // apps/order/service.go
 package order
 
-import "github.com/sanad/gormx"
+import "github.com/abdallah-elngar/gormx"
 
 func FindUserOrders(userID uint) ([]Order, error) {
     // احصل على QuerySet من Registry
@@ -144,7 +144,7 @@ func TopUsers(limit int) ([]User, error) {
 // apps/user/manifest.go
 package user
 
-import "github.com/sanad/gormx"
+import "github.com/abdallah-elngar/gormx"
 
 var Objects *gormx.QuerySet[User]
 

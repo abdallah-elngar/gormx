@@ -25,4 +25,4 @@
 ## 🚀 البدء
 
 ```go
-import "github.com/sanad/gormx/advanced"
+import "github.com/abdallah-elngar/gormx/advanced"

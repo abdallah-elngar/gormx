@@ -5,8 +5,8 @@ import (
 	"errors"
 	"testing"
 
-	"github.com/sanad/gormx"
-	"github.com/sanad/gormx/advanced"
+	"github.com/abdallah-elngar/gormx"
+	"github.com/abdallah-elngar/gormx/advanced"
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/require"
 )

@@ -23,7 +23,7 @@ go mod init myapp
 ### 2. تثبيت gormx
 
 ```bash
-go get github.com/sanad/gormx
+go get github.com/abdallah-elngar/gormx
 go get gorm.io/driver/sqlite
 go get gorm.io/gorm
 ```
@@ -39,7 +39,7 @@ import (
     "fmt"
     "log"
 
-    "github.com/sanad/gormx"
+    "github.com/abdallah-elngar/gormx"
     "gorm.io/driver/sqlite"
     "gorm.io/gorm"
 )

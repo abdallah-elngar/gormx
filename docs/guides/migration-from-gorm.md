@@ -98,7 +98,7 @@
 ### المرحلة 1: التثبيت
 
 ```bash
-go get github.com/sanad/gormx
+go get github.com/abdallah-elngar/gormx
 ```
 
 ### المرحلة 2: ربط gormx

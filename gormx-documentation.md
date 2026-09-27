@@ -132,7 +132,7 @@ gormx هي مكتبة ORM (Object-Relational Mapping) للغة Go، مبنية �
 التثبيت
 ───────
 
-    go get github.com/sanad/gormx
+    go get github.com/abdallah-elngar/gormx
 
 الإعداد الأساسي
 ───────────────
@@ -142,7 +142,7 @@ gormx هي مكتبة ORM (Object-Relational Mapping) للغة Go، مبنية �
     import (
         "log"
 
-        "github.com/sanad/gormx"
+        "github.com/abdallah-elngar/gormx"
         "gorm.io/driver/sqlite"
         "gorm.io/gorm"
     )
@@ -902,7 +902,7 @@ Typed Errors:
 
 كل الميزات أدناه موجودة في الحزمة الفرعية:
 
-    import "github.com/sanad/gormx/advanced"
+    import "github.com/abdallah-elngar/gormx/advanced"
 
 
 ───────────────────────────────────────────────────────────────────
@@ -1674,8 +1674,8 @@ Benchmarks:
         "log"
         "time"
 
-        "github.com/sanad/gormx"
-        "github.com/sanad/gormx/advanced"
+        "github.com/abdallah-elngar/gormx"
+        "github.com/abdallah-elngar/gormx/advanced"
         "gorm.io/driver/sqlite"
         "gorm.io/gorm"
     )
@@ -2311,9 +2311,9 @@ Batch:
 نأمل أن تجعل هذه المكتبة تطويرك أسرع، وكودك أنظف، وحياتك أسهل.
 
 للأسئلة، الاقتراحات، أو الإبلاغ عن أخطاء:
-    GitHub: https://github.com/sanad/gormx
-    Issues: https://github.com/sanad/gormx/issues
-    Discussions: https://github.com/sanad/gormx/discussions
+    GitHub: https://github.com/abdallah-elngar/gormx
+    Issues: https://github.com/abdallah-elngar/gormx/issues
+    Discussions: https://github.com/abdallah-elngar/gormx/discussions
 
 ═══════════════════════════════════════════════════════════════════
 
